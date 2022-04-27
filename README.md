@@ -6,6 +6,8 @@
 <p align="left">
   🔥 Tecnologias: <strong>Java, MySql ,Python.</strong>
 </p>
+
+
 <div>
   <img align="center" alt="Jcga-J" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Jcga-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
