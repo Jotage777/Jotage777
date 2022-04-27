@@ -1,4 +1,16 @@
-## Olá meu nome é João Gabriel
+<p align="left"> 
+  Olá, meu nome é João Gabriel de Oliveira Ponciano, sou graduando em <strong>Engenharia de Computação</strong> (2017 - 2022).<br>
+  
+</p>
+
+<p align="left">
+  🔥 Tecnologias: <strong>Java, MySql ,Python.</strong>
+</p>
+<div>
+  <img align="center" alt="Jcga-J" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Jcga-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <img align="center" alt="Jcga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <div align="center">
   <a href="https://github.com/Jotage777">
