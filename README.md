@@ -40,6 +40,7 @@
     
  ## BETon: Uma plataforma para avaliação de estratégias de apostas no futebol
     -Responsavel pelo web crawler das estatisticas das 5 ligas da europa e guardar as mesmas em um banco de dados SQL.
+    - Criar um CRUD com essas informações.
     -Tecnologias utilizadas: Python, selenium, e Mysql.
     - Link do repositorio: https://github.com/Jotage777/FlashScore
     
