@@ -1,11 +1,11 @@
 ## Perfil
 <p align="left"> 
-  Olá, meu nome é João Gabriel de Oliveira Ponciano, sou graduando em <strong>Engenharia de Computação</strong>, IFPB - Campus Campina Grande (2017 - 2022).<br>
+  Olá, meu nome é João Gabriel de Oliveira Ponciano, sou graduado em <strong>Engenharia de Computação</strong>, IFPB - Campus Campina Grande (2017 - 2022).<br>
   
 </p>
 
 <p align="left">
-  🔥 Tecnologias: <strong>Java, MySql ,Python.</strong>
+  🔥 Tecnologias: <strong>Java, MySql ,Python, Nodejs, Nestjs, AWS Service.</strong>
 </p>
 
 
