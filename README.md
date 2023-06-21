@@ -1,19 +1,31 @@
-## João Gabriel de Oliveira Ponciano
-<p align="left"> 
-  Olá pessoal, me chamo João Gabriel de Oliveira Ponciano, sou graduado em <strong>Engenharia de Computação</strong>, sou desenvolvedor backend desde agosto de 2022, sou uma pessoa entusiasta 
-  da tecnologia e sempre busco resolver problemas do dia a dia utilizando programação!
-  
-</p>
+## João Gabriel de Oliveira Ponciano (Jotage)
+
+## Sobre
+
+* 🎓 Bacharel em Engenharia de Computação.
+* 🧑‍💻 2 anos de experiência em desenvolvimento backend.
+
+## Atuações profissionais
+
+* Desenvolvedor backend na [Bridgehub](https://www.bridgehub.com.br/) e [Grupo Voga](https://grupovoga.com/), atuando com <strong>Python, NodeJs, NestJs e AWS Service</strong>.
 
 <p align="left">
-  🔥 Tecnologias: <strong>Java, MySql ,Python, Nodejs, Nestjs, AWS Service.</strong>
+   🔥 Linguagens: <strong>Java, Python, JavaScript, TypeScript.</strong> <br>
+   💼 Frameworks: <strong> NodeJs, NestJs e Flask.</strong><br>
+   🖥️ Banco de dados: <strong> Sql (Postgre e Sql Lite) e NoSql(MongoDB e DynamoDB).</strong><br>
+   👨‍💻 MicroServices : <strong> Aws(Cognito, DynamoDB, QLDB, S3, SES, Lambda, Serveless e Api Gateway).</strong><br>
+  
+  
 </p>
 
 
 <div>
-  <img align="center" alt="Jcga-J" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Jcga-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="center" alt="Jcga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
+  <img align="center" alt="aws" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png">
 </div>
 
 ## Stats
