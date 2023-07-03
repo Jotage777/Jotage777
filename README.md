@@ -11,7 +11,7 @@
 
 <p align="left">
    🔥 Linguagens: <strong>Java, Python, JavaScript, TypeScript.</strong> <br>
-   💼 Frameworks: <strong> NodeJs, NestJs e Flask.</strong><br>
+   💼 Frameworks: <strong> NodeJs, NestJs, Flask e React.</strong><br>
    🖥️ Banco de dados: <strong> Sql (Postgre e Sql Lite) e NoSql(MongoDB e DynamoDB).</strong><br>
    👨‍💻 MicroServices : <strong> Aws(Cognito, DynamoDB, QLDB, S3, SES, Lambda, Serveless e Api Gateway).</strong><br>
   
@@ -26,6 +26,7 @@
   <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
   <img align="center" alt="aws" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png">
+  <img align="center" alt="aws" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
 </div>
 
 ## Stats
