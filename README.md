@@ -1,4 +1,5 @@
 ## João Gabriel de Oliveira Ponciano (Jotage)
+* Desenvolvedor Full-Stack
 
 ## Sobre
 
