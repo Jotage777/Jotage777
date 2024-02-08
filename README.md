@@ -11,7 +11,7 @@
 ## Atuações profissionais
 
 * Desenvolvedor backend na [Bridgehub](https://www.bridgehub.com.br/) e [Grupo Voga](https://grupovoga.com/), atuando com <strong>Python, NodeJs, NestJs e AWS Service</strong>.
-* DevOps em [Vent]((https://vent.digital/))
+* DevOps em [Vent Digital](https://vent.digital/)
 
 <p align="left">
    🔥 Linguagens: <strong>Java, Python, JavaScript, TypeScript.</strong> <br>
