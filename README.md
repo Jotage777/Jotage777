@@ -1,20 +1,23 @@
 ## João Gabriel de Oliveira Ponciano (Jotage)
 * Desenvolvedor Full-Stack
+* DevOps Developer
 
 ## Sobre
 
 * 🎓 Bacharel em Engenharia de Computação.
 * 🧑‍💻 2 anos de experiência em desenvolvimento backend.
+* 🧑‍💻 1 ano de experiência em DevOps em Aws e GCP.
 
 ## Atuações profissionais
 
 * Desenvolvedor backend na [Bridgehub](https://www.bridgehub.com.br/) e [Grupo Voga](https://grupovoga.com/), atuando com <strong>Python, NodeJs, NestJs e AWS Service</strong>.
+* DevOps em [Vent]((https://vent.digital/))
 
 <p align="left">
    🔥 Linguagens: <strong>Java, Python, JavaScript, TypeScript.</strong> <br>
-   💼 Frameworks: <strong> NodeJs, NestJs, Flask e React.</strong><br>
+   💼 Frameworks: <strong> NodeJs, NestJs, Flask , React e Spark.</strong><br>
    🖥️ Banco de dados: <strong> Sql (Postgre e Sql Lite) e NoSql(MongoDB e DynamoDB).</strong><br>
-   👨‍💻 MicroServices : <strong> Aws(Cognito, DynamoDB, QLDB, S3, SES, Lambda, Serveless e Api Gateway).</strong><br>
+   👨‍💻 MicroServices : <strong> Aws(Cognito, DynamoDB, QLDB, S3, SES, Lambda, Serveless , Api Gateway, EC2, Glue) e GCP (Big query e VM).</strong><br>
   
   
 </p>
