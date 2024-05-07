@@ -9,7 +9,7 @@
 * 🎓 Bacharel em Engenharia de Computação.
 * 🧑‍💻 2 anos de experiência em Engenheiro de software.
 * 🧑‍💻 1 ano de experiência em DevOps em Aws e GCP.
-* 🧑‍💻 1 ano de experiência em Engebheiro de software.
+* 🧑‍💻 1 ano de experiência em Engenheiro de dados.
 
 ## Atuações profissionais
 
