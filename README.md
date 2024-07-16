@@ -4,6 +4,7 @@
 * Engenheiro de Dados
 * Engenheiro de Software
 
+
 ## Sobre
 
 * 🎓 Bacharel em Engenharia de Computação.
@@ -15,6 +16,7 @@
 
 * Desenvolvedor backend na [Bridgehub](https://www.bridgehub.com.br/) e [Grupo Voga](https://grupovoga.com/), atuando com <strong>Python, NodeJs, NestJs e AWS Service</strong>.
 * DevOps e Engenheiro de dados em [Vent Digital](https://vent.digital/)
+* Analista de Desenvolvimento na [Decision](https://www.linkedin.com/company/decisionbr-consultants/mycompany/verification/), junto com [IBM](https://www.ibm.com/br-pt?utm_content=SRCWW&p1=Search&p4=43700078862332896&p5=e&p9=58700008625038566&gclid=CjwKCAjwtNi0BhA1EiwAWZaANANZsO3ZzjIujLG8pf2FPdM-uqndDixwRMBFKsYS0gqeyDks5zFiOBoCSEEQAvD_BwE&gclsrc=aw.ds) e [Itau](https://www.itau.com.br/contas/conta-corrente?utm_source=google&utm_medium=display&utm_campaign=gl-midia_paga-aquisicao_pf-conversao-pmax_off_oep_v2_test&utm_content=google-1st-cpc-cross-audience-ouro_prata_sinal_v2-dinamico-livre_laranja-ga3402851796&gclid=CjwKCAjwtNi0BhA1EiwAWZaANH_Lr90bFisRI4Yy0xWTz3c6LKg3RglEAsBhre0G3qiS9bd22I3S-BoC7d0QAvD_BwE&gad_source=1)
 
 <p align="left">
    🔥 Linguagens: <strong>Java, Python, JavaScript, TypeScript.</strong> <br>
